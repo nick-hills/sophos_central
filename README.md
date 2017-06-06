@@ -1,4 +1,4 @@
-#Sophos Central App for Splunk
+# Sophos Central App for Splunk
 This Splunk App leverages the Sophos Central API to collect events and alert notifications from registered endpoints and devices.
 
 The application provides an overview dashboard, and fields conforming to CIM 4.8 Malware_*
