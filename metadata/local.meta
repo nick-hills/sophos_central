@@ -1,0 +1,68 @@
+[app/ui]
+version = 6.5.2
+modtime = 1496440151.139994000
+
+[app/launcher]
+version = 6.5.2
+modtime = 1496440151.153477000
+
+[inputs/script%3A%2F%2F%24SPLUNK_HOME%2Fetc%2Fapps%2Fsophos_central%2Fbin%2Fsophos_events.py]
+owner = admin
+version = 6.6.1
+modtime = 1496692299.761760000
+
+[inputs/script%3A%2F%2F%24SPLUNK_HOME%2Fetc%2Fapps%2Fsophos_central%2Fbin%2Fsophos_alerts.py]
+owner = admin
+version = 6.6.1
+modtime = 1496692307.978381000
+
+[views/overview]
+owner = admin
+version = 6.6.1
+modtime = 1496661245.006119000
+
+[nav/default]
+version = 6.5.2
+modtime = 1496558800.170462000
+
+[eventtypes/sophosCentralEvent]
+owner = admin
+version = 6.5.2
+modtime = 1496562136.950056000
+
+[tags/default]
+owner = admin
+version = 6.5.2
+modtime = 1496562239.566295000
+
+[tags/eventtype%3DsophosCentralEvent]
+owner = admin
+version = 6.5.2
+modtime = 1496564277.686754000
+
+[props/sophos%3Acentral%3Aevent]
+owner = admin
+version = 6.5.2
+modtime = 1496566729.130962000
+
+[props/sophos%3Acentral%3Aevent/EXTRACT-action]
+version = 6.5.2
+modtime = 1496567334.433075000
+
+[app/install/is_configured]
+version = 6.6.1
+modtime = 1496732217.103201000
+
+[inputs/script%3A%2F%2F%24SPLUNK_HOME%2Fetc%2Fapps%2Fsophos_central%2Fbin%2Fnew.py]
+version = 6.6.1
+modtime = 1496683741.735667000
+
+[passwords/credential%3Ahttps%5C%3A%2F%2Fapi3.central.sophos.com%2Fgateway%3AknZkGEHoVVauPnSR1qprs24qOmO4Q0kK6c2GLc9r%3A]
+owner = admin
+version = 6.6.1
+modtime = 1496686438.941418000
+
+[passwords/credential%3Aa%3Ab%3A]
+owner = admin
+version = 6.6.1
+modtime = 1496732217.094210000
