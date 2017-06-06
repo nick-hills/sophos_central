@@ -1,6 +1,6 @@
 <setup>
 <block title="Add new credentials" endpoint="storage/passwords" entity="_new">
-  <text>Enter your Sophos Central API Credentials (see http://github.com/nickhills81/ for more information)</text>
+  <text>Enter your Sophos Central API Credentials (see https://github.com/nickhills81/sophos_central for more information)</text>
 
   <input field="realm">
     <label>API Access URL</label>
