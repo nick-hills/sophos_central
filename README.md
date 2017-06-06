@@ -7,4 +7,7 @@ You will need to obtain an API key from your Sophos Central account. On first ru
  
 *Icon made by Freepik from www.flaticon.com*
 
+## Configure the Application
+You will need to obtain a Sophos Central API token to start reciving events from Sophos Central. To do so, login to your Sophos Central acocunt, and navigate to Global Settings, and then choose API Tokens
+
 ![alt text](https://github.com/nickhills81/sophos_central/blob/master/readme_content/Sophos_Central01.png?raw=true)
