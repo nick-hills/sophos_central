@@ -7,4 +7,4 @@ You will need to obtain an API key from your Sophos Central account. On first ru
  
 *Icon made by Freepik from www.flaticon.com*
 
-![alt text](https://github.com/nickhills81/sophos_central/masterreadme_content/Sophos_Central01.png)
+![alt text](https://github.com/nickhills81/sophos_central/blob/master/readme_content/Sophos_Central01.png?raw=true)
